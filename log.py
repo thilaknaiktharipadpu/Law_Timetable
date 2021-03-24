@@ -6,7 +6,7 @@ dateTime = now.strftime("%d/%m/%Y %H:%M:%S")
 
 
 def addToLog(context, update):
-    template = f'''New Query in BUTimetable Bot\n
+    template = f'''New Query in Law_Timetable Bot\n
 Checked Time Table\n
 User ID - {update.callback_query.message.chat.id}
 UserName - @{update.callback_query.message.chat.username}
@@ -21,7 +21,7 @@ Call Back Query Data - {context.user_data}
 
 
 def startLog(update, context, status):
-    template = f'''New Query in BUTimetable Bot\n
+    template = f'''New Query in Law_Timetable Bot\n
 User sent /start command \n
 User ID - {update.message.chat.id}
 UserName - @{update.message.chat.username}
