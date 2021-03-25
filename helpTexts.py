@@ -12,7 +12,7 @@ After that follow instructions
 To get perticular subject date and time use /qpcode command
 
 1️⃣Send /qpcode with your subject QPCode
-    EX - /qpcode 12345
+    EX - /qpcode 1234
     type /qpcode give a single space then type QPCode and send
 2️⃣This will reply you Date and Time of that Subject
 ✅Done
