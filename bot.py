@@ -74,7 +74,7 @@ def sendTimeTable(context, update):
 
 
 help_keyboard = [[InlineKeyboardButton(
-    "Join Channel", url="https://t.me/Law_Timetablebot")]]
+    "Join Channel", url="t.me/kslustudentshub")]]
 help_reply_markup = InlineKeyboardMarkup(help_keyboard)
 
 
