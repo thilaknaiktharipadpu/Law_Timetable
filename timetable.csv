@@ -1,19 +1,19 @@
-University,Course,Date,Time,Sem,QPCode,SubjectName
-Karnataka State Law University,3 YearLLB(OB),26.03.2021,9.30 a.m. -12.30 p.m.,First Semester,101,Contract1 
-Karnataka State Law University,3 YearLLB(OB),30.03.2021,9.30 a.m. -12.30 p.m.,First Semester,102,Constitution
-Karnataka State Law University,3 YearLLB(OB),03.04.2021,9.30 a.m. -12.30 p.m.,First Semester,103,Law of Torts
-Karnataka State Law University,3 YearLLB(OB),07.04.2021,9.30 a.m. -12.30 p.m.,First Semester,104,Family Law - I Hindu Law
-Karnataka State Law University,3 YearLLB(OB),10.04.2021,9.30 a.m. -12.30 p.m.,First Semester,105,Criminal Law - I : Indian Penal Code
+﻿University,Course,Date,Time,Sem,QPCode,SubjectName
+Karnataka State Law University,3 YearLLB(OB),26.03.2021,9.30 a.m. -12.30 p.m.,First Semester,0101,Contract1 
+Karnataka State Law University,3 YearLLB(OB),30.03.2021,9.30 a.m. -12.30 p.m.,First Semester,0102,Constitution
+Karnataka State Law University,3 YearLLB(OB),03.04.2021,9.30 a.m. -12.30 p.m.,First Semester,0103,Law of Torts
+Karnataka State Law University,3 YearLLB(OB),07.04.2021,9.30 a.m. -12.30 p.m.,First Semester,0104,Family Law - I Hindu Law
+Karnataka State Law University,3 YearLLB(OB),10.04.2021,9.30 a.m. -12.30 p.m.,First Semester,0105,Criminal Law - I : Indian Penal Code
 Karnataka State Law University,3 YearLLB(NB),26.03.2021,9.30 a.m. -12.30 p.m.,First Semester,2041,Contract - I
 Karnataka State Law University,3 YearLLB(NB),30.03.2021,9.30 a.m. -12.30 p.m.,First Semester,2042,Constitution
 Karnataka State Law University,3 YearLLB(NB),03.04.2021,9.30 a.m. -12.30 p.m.,First Semester,2043,Law of Torts
 Karnataka State Law University,3 YearLLB(NB),07.04.2021,9.30 a.m. -12.30 p.m.,First Semester,2044,Family Law - I Hindu Law
 Karnataka State Law University,3 YearLLB(NB),10.04.2021,9.30 a.m. -12.30 p.m.,First Semester,2045,Criminal Law - I : Indian Penal Code
-Karnataka State Law University,3 Year LL.B.(OB),29.03.2021,2.00 p.m.- 5.00 p.m.,Second Semester,201,Contract - II
-Karnataka State Law University,3 Year LL.B.(OB),01.04.2021,2.00 p.m.- 5.00 p.m.,Second Semester,202,Company Law
-Karnataka State Law University,3 Year LL.B.(OB),06.04.2021,2.00 p.m.- 5.00 p.m.,Second Semester,203,Property Law
-Karnataka State Law University,3 Year LL.B.(OB),09.04.2021,2.00 p.m.- 5.00 p.m.,Second Semester,204,Administrative Law
-Karnataka State Law University,3 Year LL.B.(OB),12.04.2021,2.00 p.m.- 5.00 p.m.,Second Semester,205,Family Law-II Mohd. Law & Indian Succession Law
+Karnataka State Law University,3 Year LL.B.(OB),29.03.2021,2.00 p.m.- 5.00 p.m.,Second Semester,0201,Contract - II
+Karnataka State Law University,3 Year LL.B.(OB),01.04.2021,2.00 p.m.- 5.00 p.m.,Second Semester,0202,Company Law
+Karnataka State Law University,3 Year LL.B.(OB),06.04.2021,2.00 p.m.- 5.00 p.m.,Second Semester,0203,Property Law
+Karnataka State Law University,3 Year LL.B.(OB),09.04.2021,2.00 p.m.- 5.00 p.m.,Second Semester,0204,Administrative Law
+Karnataka State Law University,3 Year LL.B.(OB),12.04.2021,2.00 p.m.- 5.00 p.m.,Second Semester,0205,Family Law-II Mohd. Law & Indian Succession Law
 Karnataka State Law University,3 Year LL.B.(NB),29.03.2021,2.00 p.m.- 5.00 p.m.,Second Semester,2046,Contract - II
 Karnataka State Law University,3 Year LL.B.(NB),01.04.2021,2.00 p.m.- 5.00 p.m.,Second Semester,2047,Company Law
 Karnataka State Law University,3 Year LL.B.(NB),06.04.2021,2.00 p.m.- 5.00 p.m.,Second Semester,2048,Property Law
@@ -107,14 +107,14 @@ Karnataka State Law University,"5 Year B.B.A.,LL.B. (OB)",16.04.2021,9.30 a.m. -
 Karnataka State Law University,"5 Year B.B.A.,LL.B. (OB)",19.04.2021,9.30 a.m. -12.30 p.m.,Third Semester,322,Political Science - III
 Karnataka State Law University,"5 Year B.B.A.,LL.B. (OB)",21.04.2021,9.30 a.m. -12.30 p.m.,Third Semester,323,Economics - II
 Karnataka State Law University,"5 Year B.B.A.,LL.B. (OB)",30.03.2021,9.30 a.m. -12.30 p.m.,Third Semester,324,Constitutional Law
-Karnataka State Law University,"5 Year B.B.A.,LL.B. (OB)",15.04.2021,2.00 p.m.- 5.00 p.m.,Fourth Semester,421,Economics – III
+Karnataka State Law University,"5 Year B.B.A.,LL.B. (OB)",15.04.2021,2.00 p.m.- 5.00 p.m.,Fourth Semester,421,Economics â€“ III
 Karnataka State Law University,"5 Year B.B.A.,LL.B. (OB)",17.04.2021,2.00 p.m.- 5.00 p.m.,Fourth Semester,422,History - II
-Karnataka State Law University,"5 Year B.B.A.,LL.B. (OB)",26.03.2021,9.30 a.m. -12.30 p.m.,Fourth Semester,423,Contract – I
+Karnataka State Law University,"5 Year B.B.A.,LL.B. (OB)",26.03.2021,9.30 a.m. -12.30 p.m.,Fourth Semester,423,Contract â€“ I
 Karnataka State Law University,"5 Year B.B.A.,LL.B. (OB)",22.04.2021,2.00 p.m.- 5.00 p.m.,Fourth Semester,424,Psychology
 Karnataka State Law University,"5 Year B.B.A.,LL.B. (OB)",29.03.2021,2.00 p.m.- 5.00 p.m.,Fifth Semester,521,Contract - II
 Karnataka State Law University,"5 Year B.B.A.,LL.B. (OB)",03.04.2021,9.30 a.m. -12.30 p.m.,Fifth Semester,522,Law of Torts
-Karnataka State Law University,"5 Year B.B.A.,LL.B. (OB)",07.04.2021,9.30 a.m. -12.30 p.m.,Fifth Semester,523,Family Law – I : Hindu Law
-Karnataka State Law University,"5 Year B.B.A.,LL.B. (OB)",10.04.2021,9.30 a.m. -12.30 p.m.,Fifth Semester,524,Criminal Law – I : Indian Penal Code
+Karnataka State Law University,"5 Year B.B.A.,LL.B. (OB)",07.04.2021,9.30 a.m. -12.30 p.m.,Fifth Semester,523,Family Law â€“ I : Hindu Law
+Karnataka State Law University,"5 Year B.B.A.,LL.B. (OB)",10.04.2021,9.30 a.m. -12.30 p.m.,Fifth Semester,524,Criminal Law â€“ I : Indian Penal Code
 Karnataka State Law University,"5 Year B.B.A.,LL.B. (OB)",01.04.2021,2.00 p.m.- 5.00 p.m.,Sixth Semester,621,Company Law
 Karnataka State Law University,"5 Year B.B.A.,LL.B. (OB)",06.04.2021,2.00 p.m.- 5.00 p.m.,Sixth Semester,622,Property Law
 Karnataka State Law University,"5 Year B.B.A.,LL.B. (OB)",09.04.2021,2.00 p.m.- 5.00 p.m.,Sixth Semester,623,Administrative Law
